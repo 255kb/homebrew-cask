@@ -1,7 +1,7 @@
 cask "mockoon" do
   arch arm: "arm64", intel: "x64"
 
-  version "9.6.0"
+  version "9.6.1"
   sha256 arm:   "06477accf9657bd0aa20f9c06b6e2968c999c53193ed72960114988279dee85e",
          intel: "efa23d2d80b7bb8f05d94d7bc0341281537d538168e5e5873746e1592f37e8b9"
 
